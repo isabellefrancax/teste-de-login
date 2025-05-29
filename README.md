@@ -8,6 +8,7 @@ Step3: Clicar no botão de login.
 
 Resultado esperado: Sistema autentica o usuário e o redireciona para nova página.
 
+
 Cenario: Tentar fazer login com credenciais inválidas.
 
 Step1: Preencher o campo de usuário.
